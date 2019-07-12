@@ -16,6 +16,10 @@ public class Trabajofinalbarroso {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola amigos");
+        System.out.println("soy el marcos");
+        
+        
     }
     
 }
