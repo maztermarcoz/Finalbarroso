@@ -7,7 +7,11 @@ package trabajofinalbarroso;
 
 /**
  *
+<<<<<<< HEAD
+ * @author usuario
+=======
  * @author Marcos Hdez Retana
+>>>>>>> c7d17e3e2a4858d7de6c9989b1f925cf373ee5f0
  */
 public class Trabajofinalbarroso {
 
@@ -16,9 +20,20 @@ public class Trabajofinalbarroso {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
+        
+        
+        
+        System.out.println("cambio hecho por agustin");
+        
+=======
         System.out.println("Hola amigos");
         System.out.println("soy el marcos");
+<<<<<<< HEAD
         System.out.println("Segundo cambio");
+=======
+>>>>>>> c7d17e3e2a4858d7de6c9989b1f925cf373ee5f0
+>>>>>>> f7c6b7b29cc4a4c4df8a0965c26e0da1f1bf38fb
         
         
     }
