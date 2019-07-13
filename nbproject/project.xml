@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>trabajofinalbarroso</name>
+=======
+            <name>Trabajofinalbarroso</name>
+>>>>>>> c7d17e3e2a4858d7de6c9989b1f925cf373ee5f0
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
