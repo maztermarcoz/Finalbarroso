@@ -33,6 +33,7 @@ public class Trabajofinalbarroso {
         System.out.println("soy el marcos");
 <<<<<<< HEAD
         System.out.println("tercer cambio");
+        System.out.println("cuarto cambio krnal");
 =======
 >>>>>>> c7d17e3e2a4858d7de6c9989b1f925cf373ee5f0
 >>>>>>> f7c6b7b29cc4a4c4df8a0965c26e0da1f1bf38fb
